@@ -1,0 +1,2 @@
+# AlphaOmega
+Educational purposes only
